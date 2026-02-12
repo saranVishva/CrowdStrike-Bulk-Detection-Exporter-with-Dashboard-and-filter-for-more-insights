@@ -2,3 +2,5 @@ fastapi
 uvicorn
 crowdstrike-falconpy
 python-dotenv
+streamlit
+pandas
